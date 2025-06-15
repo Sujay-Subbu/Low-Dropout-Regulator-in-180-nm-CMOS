@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<setupdb version="7">history
+	<active>Active Setup</active>
+	<history>History
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
+			<timestamp>Apr 28 18:38:55 2025</timestamp>
+			<uuid>{f4dea0a1-8365-4833-8395-1d6b82f31280}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/sujays3/ece483.work/ece483_sp25/ldo_model/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/sujays3/ece483.work/ece483_sp25/ldo_model/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/sujays3/cadence/simulation/ece483_sp25/ldo_model/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/ece483_sp25/ldo_model/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+	</history>
+</setupdb>
